@@ -30,9 +30,9 @@ const config: DocsThemeConfig = {
   chat: {
     link: null,
   },
-  docsRepositoryBase: 'https://github.com/sprouller/nw-sharesave-support-india',
+  docsRepositoryBase: 'https://github.com/sprouller/nw-sharesave-support-poland',
   footer: {
-    text: 'NatWest colleague share plans - India',
+    text: 'NatWest colleague share plans - Poland',
   },
   feedback: {
     content: null,
