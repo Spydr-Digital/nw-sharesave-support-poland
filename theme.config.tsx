@@ -93,7 +93,10 @@ const config: DocsThemeConfig = {
   navbar: {
     //component: CustomNavbar,  
     },
-
+  banner: {
+    key: '15-nov',
+    text: 'ShareSave 2023 is now closed'
+  },
   }
 
 export default config
