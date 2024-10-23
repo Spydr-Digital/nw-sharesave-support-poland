@@ -95,7 +95,7 @@ const config: DocsThemeConfig = {
     },
   banner: {
     key: '15-nov',
-    text: 'ShareSave 2023 is now closed'
+    text: 'ShareSave 2024 is now open'
   },
   }
 
